@@ -292,7 +292,7 @@ sudo apt update
 sudo apt install vainfo intel-gpu-tools mesa-opencl-icd mesa-utils-extra
 
 #instalação dos drivers e recursos do Mesa
-sudo apt install libegl1-mesa-dev libgl1-mesa-dev libgles2-mesa-dev libassimp5
+sudo apt install libegl1-mesa-dev libgles2-mesa-dev libassimp5
 
 #Reinicializar o Sistema
 sudo reboot
@@ -337,7 +337,7 @@ B) Instalação dos principais softwares de Produtividade (DEIXAR OS ÍCONES NO 
 
 C) Instalar e Configurar todos os procedimentos do Oracle VirtualBOX (DEIXAR O ÍCONE NO DESKTOP)
   01) Site: VirtualBOX: https://www.virtualbox.org/
-  02) Procedimento: https://github.com/vaamonde/dell-linuxmint/blob/master/software/01-virtualbox.md
+  02) Procedimento: https://github.com/Mauri902/dell-linuxmint/blob/master/software/01-virtualbox.md
   03) **OBSERVAÇÃO IMPORTANTE**: Executar todas as etapas de: 00 até 05 - Pular a etapa: 06 - Continuar nas etapas: 07 até 08 - Pular a etapa: 09.
 
 D) Instalar e Configurar todos os procedimentos do Docker-CE Community (SEM ÍCONE NO DESKTOP)
